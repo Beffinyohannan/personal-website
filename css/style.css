@@ -384,7 +384,7 @@ li > a:only-child:after { content: ''; }
 
 /*-- banner --*/
 .banner{
-	background:url(../images/image3.jpg) no-repeat center;
+	background:url(images/image3.jpg) no-repeat center;
 	background-size:cover;
 	-webkit-background-size:cover;
 	-moz-background-size:cover;
@@ -623,58 +623,6 @@ h3.heading:after {
 }
 /*-- // services --*/
 
-/*-- experience --*/
-.exp-grids {
-    margin-top: 5em;
-}
-.exp-grids h4,.exp-grid1 h4 {
-    text-transform: capitalize;
-    color: #333;
-    font-size: 20px;
-    font-weight: 600;
-    letter-spacing: 1px;
-    margin-bottom: 15px;
-    float: left;
-    width: 100%;
-}
-.exp-grids span {
-    font-size: 13px;
-    background: #30c39e;
-    color: #fff;
-    padding: 5px 10px;
-    float: right;
-}
-
-.exp-grid1 h5  {
-    font-size: 16px;
-    color: #666;
-    font-weight: 600;
-}
-.exp-grids p {
-    line-height: 28px;
-    letter-spacing: .5px;
-    font-size: 16px;
-    color: #666;
-}
-.exp {
-    background: #f8f9fa;
-	padding: 2em;
-}
-.exp-grid1 p {
-    line-height: 28px;
-    letter-spacing: .5px;
-    font-size: 15px;
-    color: #666;
-    border-right: 3px solid #333;
-    padding-right: 3em;
-    text-align: right;
-}
-.exp1 {
-    padding-left: 3em;
-     background: #222;
-}
-/*-- //experience --*/
-
 /*-- text --*/
 h5.w3pvt-title {
     text-transform: capitalize;
@@ -731,7 +679,7 @@ a.work:hover,a.hire {
 
 /*-- Education -*/
 .blog {
-    background: url(../images/blog1.jpg) no-repeat 0px 0px;
+    background: url(images/blog1.jpg) no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
