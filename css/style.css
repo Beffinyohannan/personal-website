@@ -384,7 +384,7 @@ li > a:only-child:after { content: ''; }
 
 /*-- banner --*/
 .banner{
-	background:url(images/image3.jpg) no-repeat center;
+	background:url(../images/image3.jpg) no-repeat center;
 	background-size:cover;
 	-webkit-background-size:cover;
 	-moz-background-size:cover;
@@ -679,7 +679,7 @@ a.work:hover,a.hire {
 
 /*-- Education -*/
 .blog {
-    background: url(images/blog1.jpg) no-repeat 0px 0px;
+    background: url(../images/blog1.jpg) no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
