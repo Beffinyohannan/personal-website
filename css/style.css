@@ -393,7 +393,7 @@ li > a:only-child:after { content: ''; }
     min-height: 770px;
 }
 .banner-layer {
-    background: url(/images/layer.png)repeat;
+    background: url(images/layer.png)repeat;
     background: rgba(0, 0, 0, 0.5);
     min-height: 770px;
 }
@@ -679,7 +679,7 @@ a.work:hover,a.hire {
 
 /*-- Education -*/
 .blog {
-    background: url(/images/blog1.jpg) no-repeat 0px 0px;
+    background: url(images/blog1.jpg) no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
